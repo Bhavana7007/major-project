@@ -1,0 +1,2 @@
+mkdir -p hydrogen-project
+unzip -o hydrogen-catalyst-project.zip -d hydrogen-project
